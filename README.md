@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdulazizOdilbekov
+- 👋 Hi, I’m AbdulazizOdilbekov
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming
